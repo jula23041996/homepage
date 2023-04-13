@@ -268,7 +268,7 @@ body._lock {
 .edge-group__container{
 	height: auto;
 	width: 100%;
-	background-image: url(img/bg_main.png);
+	background-image: url(bg_main.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin: auto;
